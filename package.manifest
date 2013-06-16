@@ -1,0 +1,9 @@
+{
+    "name": "ElegantCountdown",
+    "package_path" : "http://localhost/ElegantCountdown/ElegantCountdown.zip",
+    "version": "1.0",
+    "developer": {
+        "name": "Giovanny Andres Gongora Granada",
+        "url": "http://github.com/Gioyik"
+    }
+}

@@ -1,0 +1,82 @@
+body {
+	font-family:ubuntu, arial, sans-serif;
+	background-image:url("metaltiles.jpg");
+	background-repeat:repeat;
+	color:#fff;
+	text-shadow:-1px 1px 1px #000;
+	margin-top:0;
+}
+#footer, #wrapper {
+	margin:0 auto;
+	border-top:none;
+	border-bottom:none;
+	padding:10px 5px;
+}
+#footer {
+	background-color: rgba(0, 0, 0, 0.5);
+	text-align:center;
+	font-size:0.7em;
+	border:1px solid black;
+	clear:both;
+}
+.timeBox {
+	float:left;
+	width:32%;
+	text-align:center;
+	margin-right:2%;
+	margin-bottom: 2.5%;
+	padding:15px 0;
+}
+.lastBox {
+	margin-right:0;
+}
+.timeBox span {
+	display:block;
+}
+.timeValueRed {
+	color: #F20;
+}
+.timeValueBig { 
+	font-size:130px;
+}
+.timeValueSmall {
+	font-size:70px;
+}
+#instruction {
+	font-size:80%;
+	display: block;
+	padding: 5px 0;
+	color: rgba(255, 255, 255, 0.6);
+	text-align: center;
+}
+.button {
+	display:block;
+	margin:4px;
+	padding: 2px 10px 2px 10px;
+	border: 1px solid black;
+	border-radius: 6px;
+	box-shadow: black 0 0 2px;
+}
+a {
+	color: white;
+	text-decoration:none;
+}
+a:hover {
+	color: cyan;
+}
+.buttonUp {
+	background-color:rgba(0, 0, 0, 0.3);
+}
+.buttonDown {
+	background-color:rgba(0, 0, 0, 0.6);
+}
+#toggler {
+	clear:both;
+	display:block;
+	margin:0;
+	padding: 2px 0 2px 0;
+	width:100%;
+	text-align:center;
+}
+
+
